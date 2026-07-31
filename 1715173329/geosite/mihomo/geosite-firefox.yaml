@@ -4,3 +4,5 @@ payload:
   - +.firefox.hu
   - +.firefoxtweetmachine.com
   - +.firefoxusercontent.com
+  - mozilla-ohttp.fastly-edge.com
+  - mozilla.map.fastly.net

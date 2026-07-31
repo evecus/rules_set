@@ -2,6 +2,10 @@
   "version": 2,
   "rules": [
     {
+      "domain": [
+        "mozilla-ohttp.fastly-edge.com",
+        "mozilla.map.fastly.net"
+      ],
       "domain_suffix": [
         "chrome",
         "basilisk-browser.org",
