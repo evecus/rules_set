@@ -986,6 +986,7 @@ payload:
   - +.cbern.com.cn
   - +.cbinews.com
   - +.cbjq.com
+  - +.cbn.cn
   - +.cc-pay.cn
   - +.ccf.org.cn
   - +.ccfund.com.cn
@@ -1158,7 +1159,6 @@ payload:
   - +.chinazns.com
   - +.chinesemooc.org
   - +.chiphell.com
-  - +.chn.cn
   - +.chndoi.org
   - +.chnppmuseum.com
   - +.chongbuluo.com
@@ -6264,6 +6264,8 @@ payload:
   - time.izatcloud.net
   - time.xtracloud.net
   - tj-pod1-smp-device.apple.com
+  - tj-pod2-smp-device.apple.com
+  - tj-pod3-smp-device.apple.com
   - tlu.dl.delivery.mp.microsoft.com
   - tools.google.com
   - tp.louisvuitton.com
