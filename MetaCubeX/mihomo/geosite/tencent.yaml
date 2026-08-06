@@ -1,6 +1,6 @@
 payload:
-    - +.gaapqcloud.com
-    - +.syxlgame.com
+    - +.my-imcloud.com
+    - +.zhuoyuegame.com
     - +.acimg.cn
     - +.apcdns.net
     - +.foxmail.com
@@ -15,19 +15,19 @@ payload:
     - +.qpic.cn
     - +.qq.com
     - +.qq.wang
-    - +.yidianliulan.cn
-    - +.yeyousg.com
-    - +.xinyan.cn
+    - +.coding.net
+    - +.coding.me
+    - +.cnb.cool
     - +.qqmail.com
     - +.qzone.com
-    - +.xiangrikuisite.com
-    - +.xiangrikuijianzhan.com
+    - +.weui.io
+    - +.weixinbridge.com
     - +.servicewechat.com
     - +.tencent.cn
     - +.tencent.com
-    - +.wannianqingjianzhan.com
+    - +.wegamedeveloper.com
     - +.tencent.net
-    - +.teemo.cn
+    - +.tjstats.com
     - +.tenpay.com
     - +.tfogc.com
     - +.wechat.com
@@ -67,29 +67,15 @@ payload:
     - +.fymallqa7.com
     - +.fymallqa9.com
     - +.tdnsdl1.cn
-    - +.sososnap.com
-    - +.tdnsdl2.cn
-    - +.yidianliulan.com
-    - +.tdnsdl3.cn
-    - +.soso.com
-    - +.tdnsdl4.cn
-    - +.sogou-op.org
-    - +.tdnsdl5.cn
-    - +.sogou-inc.com
-    - +.openmidas.com
-    - +.qq.design
-    - +.qqgamedesign.com
-    - +.tencent-cloud.cn
-    - +.tencent-cloud.com
-    - +.tencent.design
     - +.tencentcloud.com
-    - +.tjstats.com
-    - +.wegamedeveloper.com
-    - +.weixinbridge.com
-    - +.weui.io
-    - +.cnb.cool
-    - +.coding.me
-    - +.coding.net
+    - +.tdnsdl2.cn
+    - +.tencent.design
+    - +.tdnsdl3.cn
+    - +.tencent-cloud.com
+    - +.tdnsdl4.cn
+    - +.tencent-cloud.cn
+    - +.tdnsdl5.cn
+    - +.qqgamedesign.com
     - +.videoxiaoyouxi.com
     - +.wegame.com
     - +.gameloop.com
@@ -109,7 +95,7 @@ payload:
     - +.ihappystudio.cn
     - +.ihappystudio.com
     - +.in.th
-    - +.qq.xn--fiqs8s
+    - +.ludosuperstar.cn
     - +.ludoworld.net
     - +.mahjongai.net
     - +.battlecare.net
@@ -123,9 +109,9 @@ payload:
     - +.pubgno1.cn
     - +.pubgtool.com
     - +.qqgameapp.com
-    - +.rmwxgame.com
+    - +.qq.xn--fiqs8s
     - +.skydweller.cn
-    - +.gitdrone.cn
+    - +.syxlgame.com
     - +.tencent-gcloud.com
     - +.tencentstart.com
     - +.texasholdemcup.cn
@@ -139,7 +125,7 @@ payload:
     - +.yxwsgame.com
     - +.yzyxgame.com
     - +.zcjbgame.com
-    - +.zhuoyuegame.com
+    - +.my-qcloud.com
     - +.xn--owtw8cc49ajfl.cn
     - +.roblox.cn
     - +.robloxdev.cn
@@ -170,12 +156,12 @@ payload:
     - +.scsentry.cn
     - +.supercellcommunity.cn
     - +.supercellsupport.cn
-    - +.sogoucdn.com
-    - +.sgyeyou.com
-    - +.sogou.net
-    - +.ggoplay.com
-    - +.yuweikuijianzhan.com
-    - +.sogou.com
+    - +.qq.design
+    - +.openmidas.com
+    - +.yidianliulan.cn
+    - +.yeyousg.com
+    - +.xinyan.cn
+    - +.xiangrikuisite.com
     - +.kugou.com
     - +.kugou.net
     - +.xmcdn.com
@@ -205,9 +191,9 @@ payload:
     - +.kugouyouth.com
     - +.koowo.cn
     - +.koowo.com
-    - +.sogou.cn
-    - +.sogo.com
-    - +.sgyouxi.com
+    - +.xiangrikuijianzhan.com
+    - +.wannianqingjianzhan.com
+    - +.teemo.cn
     - +.aireads.cn
     - +.chatdrama.cn
     - +.chatdrama.net
@@ -275,9 +261,9 @@ payload:
     - +.essurl.com
     - +.exmailgz.com
     - +.fsphere.cn
-    - +.ludosuperstar.cn
-    - +.xn--r70as2s.xn--fiqs8s
-    - +.tcloudhw.net
+    - +.gaapqcloud.com
+    - +.gitdrone.cn
+    - +.gmedev.cn
     - +.govqcloud.com
     - +.gsadds.com
     - +.gtm.pub
@@ -289,9 +275,9 @@ payload:
     - +.isd.com
     - +.ispqcloud.com
     - +.itopsdk.com
-    - +.my-imcloud.com
-    - +.my-qcloud.com
-    - +.discuz.org
+    - +.rmwxgame.com
+    - +.xn--r70as2s.xn--fiqs8s
+    - +.tencentcdb.cn
     - +.myelasticsearch.com
     - +.myqcloud.com
     - +.onexmail.com
@@ -308,9 +294,9 @@ payload:
     - +.qcloudclass.com
     - +.qcloudcos.cn
     - +.qcloudcos.com
-    - +.discuz.net
-    - +.comsenz.com
-    - +.dnspod.org
+    - +.dnsv5.com
+    - +.dns.pub
+    - +.dnsv3.com
     - +.qclouder.com
     - +.qcloudgme.com
     - +.qcloudimg.com
@@ -357,7 +343,7 @@ payload:
     - +.tclouddrive.com
     - +.tcloudedu.com
     - +.tcloudhw.com
-    - +.gmedev.cn
+    - +.tcloudhw.net
     - +.tcloudscdn.com
     - +.tcloudscdn.net
     - +.tdnsstic1.cn
@@ -370,7 +356,7 @@ payload:
     - +.tencent-cloud.net
     - +.tencentapps.com
     - +.tencentbyod.com
-    - +.tencentcdb.cn
+    - +.dnspod.org
     - +.tencentcdb.com
     - +.txbyod.com
     - +.acctdns.net
@@ -384,7 +370,7 @@ payload:
     - +.tencentcloudses.com
     - +.tencentcos.cn
     - +.tencentcos.com
-    - +.dnsv5.com
+    - +.dnsapi.cn
     - +.tencentcs.cn
     - +.tencentcs.com
     - +.tencentdayu.com
@@ -404,12 +390,12 @@ payload:
     - +.tencentyun.com
     - +.tendbcluster.com
     - +.tendis.net
-    - +.dns.pub
+    - +.doh.pub
     - +.testmeet.cn
     - +.testwaf.com
     - +.tgovcloud.com
     - +.tidaas.com
-    - +.dnsv3.com
+    - +.dnsv2.com
     - +.timmerse.com
     - +.tlivecdn.com
     - +.tlivemcdn.com
@@ -419,7 +405,7 @@ payload:
     - +.tourismuser.cn
     - +.tsparkling.com
     - +.tx-exhibition.com
-    - +.dnsapi.cn
+    - +.dnspod.mobi
     - +.txidc.wang
     - +.txlivecdn.com
     - +.txtyxg.com
@@ -434,7 +420,7 @@ payload:
     - +.wework-studio.com
     - +.xqymuy.com
     - +.yufuid.com
-    - +.doh.pub
+    - +.dot.pub
     - +.yufuid.net
     - +.tencentclb.com
     - +.dnse0.cn
@@ -479,13 +465,13 @@ payload:
     - +.tdnsv13.net
     - +.tdnsv14.net
     - +.tdnsv15.net
-    - +.dnsv2.com
-    - +.dnspod.mobi
-    - +.dot.pub
     - +.dnspod.com
     - +.dnspod.cn
     - +.dnsv4.com
     - +.dnspod.net
+    - +.discuz.org
+    - +.discuz.net
+    - +.comsenz.com
     - +.rumt-zh.com
     - +.tamaegis.com
     - +.ym.run
@@ -497,6 +483,20 @@ payload:
     - +.m1.run
     - +.m6.run
     - +.m9.run
+    - +.sososnap.com
+    - +.yidianliulan.com
+    - +.soso.com
+    - +.sogou-op.org
+    - +.sogou-inc.com
+    - +.sogoucdn.com
+    - +.sgyeyou.com
+    - +.sogou.net
+    - +.ggoplay.com
+    - +.yuweikuijianzhan.com
+    - +.sogou.com
+    - +.sogou.cn
+    - +.sogo.com
+    - +.sgyouxi.com
     - +.binglianhuajianzhan.com
     - +.sgtmos.com
     - +.sg.cn
@@ -506,35 +506,35 @@ payload:
     - +.ggowan.com
     - +.sogouimecdn.com
     - +.sogoucdndl.com
-    - +.tdnsdl4.com.cn
-    - +.tdnsdl3.com.cn
-    - +.dnspod.com.cn
-    - +.yufuid.com.cn
-    - +.tencentcdb.com.cn
-    - +.qcloudcos.com.cn
-    - +.tencentcos.com.cn
-    - +.sogou.com.cn
-    - +.soso.com.cn
     - +.foxmail.com.cn
     - +.gtimg.com.cn
-    - +.timatrix.com.cn
-    - +.wegame.com.cn
+    - +.qq.cn.com
+    - +.tencentcos.com.cn
+    - +.qcloudcos.com.cn
+    - +.tencentcdb.com.cn
+    - +.yufuid.com.cn
     - +.jrzk.net.cn
+    - +.oracle-tencent.com.cn
+    - +.oracle-tencent.net.cn
+    - +.timatrix.com.cn
+    - +.soso.com.cn
     - +.ectencent.com.cn
     - +.dnsv1.com.cn
-    - +.oracle-tencent.net.cn
-    - +.oracle-tencent.com.cn
-    - +.tencent.com.cn
+    - +.dnspod.com.cn
+    - +.qq.com.cn
+    - +.rtx.com.cn
+    - +.testjrzk.net.cn
+    - +.tdnsdl1.com.cn
     - +.goto-game.net.cn
+    - +.sogou.com.cn
+    - +.wegame.com.cn
     - +.werepository.com.cn
     - +.tdnsdl5.com.cn
-    - +.testjrzk.net.cn
-    - +.qq.cn.com
+    - +.tdnsdl4.com.cn
+    - +.tdnsdl3.com.cn
     - +.tdnsdl2.com.cn
-    - +.tdnsdl1.com.cn
     - +.tencent.net.cn
-    - +.rtx.com.cn
-    - +.qq.com.cn
+    - +.tencent.com.cn
     - +.tencent.co.id
     - +.tencent.com.hk
     - +.wetv.vip
@@ -589,7 +589,6 @@ payload:
     - +.trace.qq.com
     - +.ugdtimg.com
     - +.wit.qq.com
-    - +.badjs.weixinbridge.com
     - +.ad.tencentmusic.com
     - +.adstats.tencentmusic.com
     - +.monitor.music.qq.com
@@ -675,3 +674,4 @@ payload:
     - +.theta.sogoucdn.com
     - +.uranus.sogou.com
     - +.wuliao.epro.sogou.com
+    - +.badjs.weixinbridge.com
