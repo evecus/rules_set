@@ -377,6 +377,8 @@ payload:
   - +.95516.com
   - +.95516.net
   - +.9553.com
+  - +.95598.cn
+  - +.95598pay.com
   - +.962.net
   - +.9718.com
   - +.97ting.com
@@ -446,6 +448,7 @@ payload:
   - +.adukwai.com
   - +.adv-sv-show.focus.cn
   - +.adv-sv-stat.focus.cn
+  - +.adx.36kr.com
   - +.adxvip.com
   - +.afdian.com
   - +.afdian.net
@@ -1363,6 +1366,7 @@ payload:
   - +.csdn.net.cn
   - +.csdnimg.cn
   - +.csfounder.com
+  - +.csg.cn
   - +.csgo.com.cn
   - +.csgo.wmsj.cn
   - +.csmjzs.com
@@ -1778,9 +1782,11 @@ payload:
   - +.ebtrust.com
   - +.eceshi.com
   - +.ecgapp.com.cn
+  - +.echargenet.com
   - +.ecjobhome.com
   - +.ecloud-gdu.com
   - +.ecns.cn
+  - +.ecsg.com.cn
   - +.ecukwai.com
   - +.eda.cn
   - +.edgecloudx.cn
@@ -1824,6 +1830,7 @@ payload:
   - +.erp321.com
   - +.erp321.net
   - +.ersjk.com
+  - +.esgcc.com.cn
   - +.essence.com.cn
   - +.et-api.com
   - +.et001.com
@@ -1933,6 +1940,7 @@ payload:
   - +.fnos.net
   - +.focus-img.cn
   - +.focus.cn
+  - +.focuschina.com
   - +.fofa.info
   - +.fofa.so
   - +.fofuai.com
@@ -3362,6 +3370,7 @@ payload:
   - +.m1905.com
   - +.macbookair.cn
   - +.macbookair.com.cn
+  - +.made-in-china.com
   - +.mafengwo.cn
   - +.mafengwo.com
   - +.mafengwo.net
@@ -3503,6 +3512,7 @@ payload:
   - +.microsoftreactor.com.cn
   - +.microsoftstore.com.cn
   - +.microsofttranslator-int.cn
+  - +.micstatic.com
   - +.micun.com
   - +.midasbuy.com
   - +.midea.cn
@@ -3938,6 +3948,7 @@ payload:
   - +.powerappsportals.cn
   - +.powerautomate.cn
   - +.powerbi.cn
+  - +.poweremarket.com
   - +.ppkankan01.com
   - +.pplive.cn
   - +.pplive.com
@@ -4271,9 +4282,11 @@ payload:
   - +.sffix.cn
   - +.sfgy.org
   - +.sgamer.com
+  - +.sgcc.com.cn
   - +.shanbay.com
   - +.shang360.com
   - +.shangc.net
+  - +.shanghaidisneyresort.com
   - +.shanghairc.com
   - +.shanghongbei.com
   - +.shangshi360.com
@@ -4726,6 +4739,7 @@ payload:
   - +.trackingprd.hwwt8.com
   - +.trackserver.shuxinyc.com
   - +.tracup.com
+  - +.trademessenger.com
   - +.trae.cn
   - +.trae.com.cn
   - +.trae.guru
@@ -4904,6 +4918,7 @@ payload:
   - +.vcimg.com
   - +.vdolady.com
   - +.veeqi.net
+  - +.vemic.com
   - +.veryhuo.com
   - +.veryzhun.com
   - +.vgtime.com
