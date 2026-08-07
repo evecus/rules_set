@@ -68,8 +68,15 @@ payload:
     - +.wireguard.com
     - +.wiresock.net
     - +.zeronet.io
+    - +.getlantern.org
+    - +.lantern.io
+    - +.torproject.org
+    - +.docs.rw
+    - +.log.rw
+    - +.try.rw
     - +.citizenlab.ca
     - +.citizenlab.org
+    - +.epicbrowser.com
     - +.applecensorship.com
     - +.freebrowser.org
     - +.freewechat.com
@@ -82,22 +89,15 @@ payload:
     - +.wikiunblocked.org
     - +.haveibeenpwned.com
     - +.pwnedpasswords.com
-    - +.getlantern.org
-    - +.lantern.io
     - +.paskoocheh.com
     - +.softether.org
     - +.softether-download.com
-    - +.epicbrowser.com
-    - +.torproject.org
     - +.v2ray.com
     - +.v2ray.cool
     - +.v2fly.org
     - +.opengw.net
     - +.vpngate.jp
     - +.vpngate.net
-    - +.docs.rw
-    - +.log.rw
-    - +.try.rw
     - +.ipns.co
     - +.jorropo.net
     - +.crustwebsites.net
