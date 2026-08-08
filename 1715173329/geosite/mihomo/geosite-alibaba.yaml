@@ -173,7 +173,11 @@ payload:
   - +.cdngslb.com
   - +.cheng.xin
   - +.cloudeagle.cn
+  - +.cn-beijing.aliyuncs.com
+  - +.cn-chengdu.aliyuncs.com
+  - +.cn-guangzhou.aliyuncs.com
   - +.cn-hangzhou.aliyuncs.com
+  - +.cn-hongkong.aliyuncs.com
   - +.cn-shanghai.aliyuncs.com
   - +.cnlogs.umeng.com
   - +.cnlogs.umengcloud.com
@@ -235,6 +239,7 @@ payload:
   - +.hemaos.com
   - +.hemashare.cn
   - +.hichina.com
+  - +.hotfix-api.aliyuncs.com
   - +.hupan.com
   - +.hzchengdun.com
   - +.hzchengdun.net
@@ -359,6 +364,7 @@ payload:
   - +.puata.info
   - +.qingtingtrip.com
   - +.quark.cn
+  - +.registry.aliyuncs.com
   - +.resolve.umeng.com
   - +.retcode.taobao.com
   - +.rexpos.cn

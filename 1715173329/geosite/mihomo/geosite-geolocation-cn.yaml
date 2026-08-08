@@ -483,8 +483,6 @@ payload:
   - +.aiqicha.com
   - +.air-matters.com
   - +.airchangan.com
-  - +.airchina.com.cn
-  - +.airchinacargo.com
   - +.airguilin.com
   - +.airitilibrary.cn
   - +.airnut.com
@@ -1647,6 +1645,7 @@ payload:
   - +.douyinact.com
   - +.douyinact.net
   - +.douyincdn.com
+  - +.douyinec.com
   - +.douyinfe.com
   - +.douyinliving.com
   - +.douyinpay.com
@@ -3261,6 +3260,7 @@ payload:
   - +.lietou-static.com
   - +.lietou.com
   - +.lieyunwang.com
+  - +.lifexue.com
   - +.lightmake.site
   - +.lightonus.com
   - +.likuso.com
@@ -3716,6 +3716,7 @@ payload:
   - +.nextstudios.com
   - +.nextvid.net
   - +.nextworkshop.net
+  - +.nfcos.cn
   - +.nffund.com
   - +.nfpeople.com
   - +.nga.cn
@@ -4194,6 +4195,7 @@ payload:
   - +.runningcheese.com
   - +.runoob.com
   - +.ruseer.com
+  - +.ruubypay.com
   - +.rwkv.cn
   - +.rwkv.com
   - +.rzrc114.com
@@ -4241,6 +4243,7 @@ payload:
   - +.scratch5.com
   - +.scsentry.cn
   - +.scsjb.cn
+  - +.sctcd.com
   - +.sctv-tf.com
   - +.sctv.com
   - +.scyol.com
@@ -4311,6 +4314,7 @@ payload:
   - +.shengyizhuanjia.com
   - +.shenmayouxi.com
   - +.shenzhenair.com
+  - +.shenzhentong.com
   - +.sheui.com
   - +.shfft.com
   - +.shgsec.com
@@ -4393,6 +4397,7 @@ payload:
   - +.snodehome.cn
   - +.snodehome.com
   - +.snowballsecurities.com
+  - +.snowballtech.com
   - +.snxw.com
   - +.so-quick.cn
   - +.so.com
@@ -4441,6 +4446,7 @@ payload:
   - +.splash-ads.unitychina.cn
   - +.springairlines.com
   - +.springtour.com
+  - +.sptcc.com
   - +.sq.cc
   - +.sqqnh.cn
   - +.sqqnh.org
@@ -4846,6 +4852,7 @@ payload:
   - +.ule.com
   - +.ulecdn.com
   - +.ulife.group
+  - +.ulpay.com
   - +.ultimatemusic.cn
   - +.ultracachenode.com
   - +.umajor.net
