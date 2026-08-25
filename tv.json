@@ -1,28 +1,40 @@
 {
   "urls": [
     {
+      "url": "http://www.饭太硬.net/tv",
+      "name": "🍨饭硬线路"
+    },
+    {
+       "url": "https://9280.kstore.vip/newwex.json",
+       "name": "🐷小二线路"
+    },
+    {
       "url": "http://tv.nxog.top/m",
       "name": "🍳讴歌专线"
     },
     {
-      "url": "http://www.饭太硬.net/tv",
-      "name": "🍨饭硬备用"
-    }, 
-    {
-       "url": "https://yydsys.netlify.app/config.json",
-       "name": "💞多多单线"
-    },    
-    {
-      "url": "http://tv.laohu.cool/tvbox.json",
-      "name": "🐯老虎线路"
+       "url": "http://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json",
+       "name": "💞挺好丨七星"
     },
-    {
-      "url": "http://www.饭太硬.com/tv",
-      "name": "🍨饭硬线路"
-    }, 
     {
       "url": "https://zthaa.top/th/api.json",
       "name": "🌠挺好分享"
+    },
+    {
+      "url": "http://www.饭太硬.cc/tv",
+      "name": "🍨饭硬备用"
+    },
+    {
+      "url": "https://zthaa.top/th/api.json",
+      "name": "📛公众号丨挺好分享"
+    },
+    {
+       "url": "https://yydsys.netlify.app/config.json",
+       "name": "💞多多单线"
+    },
+    {
+      "url": "http://tv.laohu.cool/tvbox.json",
+      "name": "🐯老虎线路"
     },
     {
       "url": "https://zthaa.top/thzx/th.json",
@@ -43,22 +55,6 @@
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
       "name": "🚀南风线路"
-    },
-    {
-      "url": "http://ok213.top/ok",
-      "name": "🚀OK线路"
-    },
-    {
-      "url": "http://ok213.top/tv",
-      "name": "🚀OK弹幕"
-    },
-    {
-      "url": "https://10352.kstore.vip/ok",
-      "name": "🚀OK备用"
-    },
-    {
-      "url": "https://10352.kstore.vip/tv",
-      "name": "🚀OK弹幕备用"
     },
     {
       "url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json",
@@ -161,7 +157,7 @@
       "name": "🚀青龙影线"
     },
     {
-      "url": "https://omnibox.166001.xyz/api/tvbox/subscription?token=P5j6p2ZptDHZ0PyMzgewUNpX9aqc2Sbu",
+      "url": "https://omnibox.166001.xyz/api/subscription/2039678970483445760/tvbox?token=UNPWBeYEJZF4kyHZ1AoV3FElkl4cwvFp",
       "name": "🚀omnibox线路"
     },
     {
